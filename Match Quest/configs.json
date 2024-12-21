@@ -5,5 +5,6 @@
   "gameBooster": true,
   "dailyBooster": true,
   "delayEachAccount": [5, 8],
-  "doTasks": true
+  "doTasks": true,
+  "playGames": false
 }
